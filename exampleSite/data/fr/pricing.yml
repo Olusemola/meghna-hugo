@@ -51,4 +51,4 @@ menu:
   main:
     name: Pricing
     URL: pricing
-    weight: 5
+    weight: 3
